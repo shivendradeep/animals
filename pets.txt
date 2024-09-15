@@ -3,3 +3,5 @@ dog
 chicken
 lion 
 tiger
+frog
+scorpio
